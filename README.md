@@ -46,5 +46,4 @@ FizzyCo highest retailer variance — +$21.01L
 Q3 2023 was the peak sales quarter
 Overall sales grew ~296% from 2022 to 2023
 
-Screenshot:-
-(https://github.com/BadalKamble/Coca-Cola-Retailer-Dashboard/blob/main/CoCa%20CoLa%20Excel%20Dahbord%20Screenshot.png)
+![Coca-Cola USA Retailer Dashboard](CoCa%20CoLa%20Excel%20Dahbord%20Screenshot.png)
